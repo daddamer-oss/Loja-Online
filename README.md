@@ -1,4 +1,4 @@
-# Landing Page de Vendas - Microsoft Office Original
+# Landing Page de Vendas - Microsoft Office 
 
 Landing page extremamente persuasiva e moderna para venda de licenças do Microsoft Office (2013, 2016, 2019, 2021 e 2024) com ativação permanente, voltada ao público brasileiro.
 
@@ -208,4 +208,5 @@ Para dúvidas ou personalizações, consulte a documentação ou entre em contat
 ---
 
 **Desenvolvido com foco em conversão e experiência do usuário** 🚀
+
 
